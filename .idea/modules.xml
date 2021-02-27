@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/hotreload_and_containerwidgets.iml" filepath="$PROJECT_DIR$/hotreload_and_containerwidgets.iml" />
+      <module fileurl="file://$PROJECT_DIR$/android/hotreload_and_containerwidgets_android.iml" filepath="$PROJECT_DIR$/android/hotreload_and_containerwidgets_android.iml" />
+    </modules>
+  </component>
+</project>
